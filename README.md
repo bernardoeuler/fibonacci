@@ -1,5 +1,5 @@
 # Fibonacci
-This program calculates the term at a given position in the fibonacci sequence. It can be **any** number (like the fibonacci of 1.000.000.000), without limitations other than you patience to wait for the result. This is because of the use of the GMP library (GNU Multiple Precision Arithmetic), which makes it possible to go beyond the limits of C in terms of integers representation.
+This program calculates the term at a given position in the fibonacci sequence. It can be **any** number (like the fibonacci of 1.000.000), without limitations other than you patience to wait for the result. This is because of the use of the GMP library (GNU Multiple Precision Arithmetic), which makes it possible to go beyond the limits of C in terms of integers representation.
 The program runs very fast. Calculating in terms of **miliseconds** the fibonacci of 1, 2, 100, 500 or even 100.000! It can go beyond and calculate the fibonacci of bigger numbers, despite taking a bit longer to do that.
 
 ## How to download
